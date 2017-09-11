@@ -1,10 +1,4 @@
-#Google Web Crawler
-''''# Things to add:-
-1)Extract the description from each title.
-2)Get the links of the suggestion of the first search result and store it properly.
-3)The link of wikipedia when it comes sideways.(Search Boots in google)
-4)Add the number of pages
-'''
+
 
 
 
